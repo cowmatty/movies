@@ -58,3 +58,6 @@ movie, date, T rating, M rating, D rating, picked by
 "Christmas Chronicles 2", 2020-11-27, 4, 3, 3, T
 "Jingle Jangle", 2020-11-28, 4, 3, 2, T
 "Empire Strikes Back", 2020-12-05, 4, 4, 5, M
+"Return of the Jedi", 2020-12-12, 5, 5, 5, D
+"Rise of Skywalker", 2020-12-13, 5, 5, 4, T
+"Phantom Menace", 2020-12-19, 3, 3, 3, M
