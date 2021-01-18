@@ -61,6 +61,7 @@ movie, date, T rating, M rating, D rating, picked by
 "Return of the Jedi", 2020-12-12, 5, 5, 5, D
 "Rise of Skywalker", 2020-12-13, 5, 5, 4, T
 "Phantom Menace", 2020-12-19, 3, 3, 3, M
+"Mulan", 2020-12-26, 5, 5, 5, D
 "Wonder Woman", 2020-01-01, 5, 5, 5, M 
 "Avengers", 2020-01-08, 4, 3, 3, T
 "Year One", 2020-01-09, 3, 3, 3, D 
