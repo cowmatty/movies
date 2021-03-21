@@ -24,7 +24,7 @@ movie, date, T rating, M rating, D rating, picked by
 "Naked Gun", 2020-07-26, 4, 3, 3, M 
 "Kangaroo Jack", 2020-08-01, 5, 3, 2, D 
 "The Sandlot", 2020-08-08, 10, 5, 5, D 
-"Jurasic Park", 2020-08-14, 1, 3, 3, M 
+"Jurassic Park", 2020-08-14, 1, 3, 3, M 
 "The Adams Family", 2020-08-15, 4, 3, 4, T 
 "Denis the Menace", 2020-08-16, 2, 2, 2, D 
 "Lemony Snicket's", 2020-08-21, 5, 3, 4, M 
@@ -35,9 +35,9 @@ movie, date, T rating, M rating, D rating, picked by
 "Jack and Jill", 2020-09-05, 4, 3, 3, T 
 "Instant Family", 2020-09-06, 3, 3, 4, D 
 "Tomorrow Never Dies", 2020-09-11, 2, 2, 2, M 
-"Indiana Jones and the Kingdom of the Cyrstal Skull", 2020-09-19, 2, 2, 2, D 
+"Indiana Jones and the Kingdom of the Crystal Skull", 2020-09-19, 2, 2, 2, D 
 "Shorts", 2020-09-26, 5, 4, 3, D 
-"Monty Python Holy Grail", 2020-09-27, 1, 4, 4, M 
+"Monty Python and the Search for the Holy Grail", 2020-09-27, 1, 4, 4, M 
 "Superman 1978", 2020-10-03, 3, 3, 3, T 
 "Enola Holms", 2020-10-11, 4, 4, 4, M 
 "Miss Congeniality", 2020-10-12, 3, 3, 3, D 
@@ -52,7 +52,7 @@ movie, date, T rating, M rating, D rating, picked by
 "Tooth Fairy", 2020-11-14, 4, 3, 3, D 
 "Smurfs 2", 2020-11-15, 3, 2, 2, T
 "Princess Switch 2", 2020-11-21, 3, 2, 3, D
-"A Boy Named Charle Brown", 2020-11-22, 3, 4, 4, T
+"A Boy Named Charlie Brown", 2020-11-22, 3, 4, 4, T
 "Bewitched", 2020-11-25, 3, 3, 2, M
 "Planes, Trains, and Automobiles", 2020-11-26, 3, 3, 4, D
 "Christmas Chronicles 2", 2020-11-27, 4, 3, 3, T
@@ -78,9 +78,11 @@ movie, date, T rating, M rating, D rating, picked by
 "Star Wars: The Force Awakens", 2020-02-14, 4, 4, 4, T 
 "The DUFF", 2020-02-15, 4, 3, 4, D 
 "Flora & Ulysses", 2020-02-20, 5, 4, 4, T 
-"Soal", 2020-02-21, 2, 4, 5, M 
+"Soul", 2020-02-21, 2, 4, 5, M 
 "You Again", 2020-02-27, 4, 3, 3, D 
 "Meet the Patels", 2020-03-06, 1, 5, 4, M 
 "Bigfoot Family", 2020-03-07, 3, 2, 2, T 
 "Cheaper By the Dozen", 2020-03-13, 3, 1, 3, D 
-"Cheaper By the Dozen2", 2020-03-14, 3, 2, 3, T 
+"Cheaper By the Dozen 2", 2020-03-14, 3, 2, 3, T 
+"Onward", 2020-03-20, 5, 5, 5, M 
+"Big", 2020-03-21, 3, 4, 5, D 
