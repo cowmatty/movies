@@ -1,55 +1,55 @@
-movie, date, T rating, M rating, D rating, picked by
-"Back to the Future", 2020-05-22, 3, 5, 5, D 
-"Back to the Future II", 2020-05-23, 5, 2, 3, D 
-"Back to the Future III", 2020-05-29, 5, 4, 5, D 
-"Grown Ups", 2020-06-06, 10, 3, 4, D 
-"Solo", 2020-06-13, 4, 3, 4, D 
-"Casper", 2020-06-14, 3, 2, 3, M 
-"Grown Ups II", 2020-06-20, 10, 4, 3, D 
-"Raiders of the Lost Ark", 2020-06-21, 4, 4, 4, D 
-"Babe", 2020-06-22, 4, 4, 5, T 
-"Cats and Dogs", 2020-06-27, 5, 3, 3, T 
-"My Spy", 2020-06-28, 10, 4, 3, T 
-"Hot Rod", 2020-07-03, 5, 3, 2, D 
-"Airplane", 2020-07-04, 4, 3, 3, M 
-"Euro Vision", 2020-07-05, 4, 4, 4, D 
-"Nut Job", 2020-07-06, 10, 2, 2, T 
-"Space Balls", 2020-07-07, 10, 3, 3, D 
-"Feal the Beat", 2020-07-10, 10, 3, 3, D 
-"I now pronounce you Chuck and Larry", 2020-07-11, 4, 3, 3, M 
-"Madagascar II", 2020-07-12, 4, 3, 3, T 
+movie,date,T rating,M rating,D rating,picked by
+"Back to the Future", 2020-05-22, 3, 5, 5, D
+"Back to the Future II", 2020-05-23, 5, 2, 3, D
+"Back to the Future III", 2020-05-29, 5, 4, 5, D
+"Grown Ups", 2020-06-06, 10, 3, 4, D
+"Solo", 2020-06-13, 4, 3, 4, D
+"Casper", 2020-06-14, 3, 2, 3, M
+"Grown Ups II", 2020-06-20, 10, 4, 3, D
+"Raiders of the Lost Ark", 2020-06-21, 4, 4, 4, D
+"Babe", 2020-06-22, 4, 4, 5, T
+"Cats and Dogs", 2020-06-27, 5, 3, 3, T
+"My Spy", 2020-06-28, 10, 4, 3, T
+"Hot Rod", 2020-07-03, 5, 3, 2, D
+"Airplane", 2020-07-04, 4, 3, 3, M
+"Euro Vision", 2020-07-05, 4, 4, 4, D
+"Nut Job", 2020-07-06, 10, 2, 2, T
+"Space Balls", 2020-07-07, 10, 3, 3, D
+"Feal the Beat", 2020-07-10, 10, 3, 3, D
+"I now pronounce you Chuck and Larry", 2020-07-11, 4, 3, 3, M
+"Madagascar II", 2020-07-12, 4, 3, 3, T
 "The Main Event", 2020-07-18, 10, 3, 3, B
 "Big Daddy", 2020-07-19, 4, 4, 3, B
-"Animal Crackers", 2020-07-25, 5, 3, 3, D 
-"Naked Gun", 2020-07-26, 4, 3, 3, M 
-"Kangaroo Jack", 2020-08-01, 5, 3, 2, D 
-"The Sandlot", 2020-08-08, 10, 5, 5, D 
-"Jurassic Park", 2020-08-14, 1, 3, 3, M 
-"The Adams Family", 2020-08-15, 4, 3, 4, T 
-"Denis the Menace", 2020-08-16, 2, 2, 2, D 
-"Lemony Snicket's", 2020-08-21, 5, 3, 4, M 
-"Mr. Deeds", 2020-08-25, 4, 3, 3, D 
-"The Sleepover", 2020-08-29, 4, 3, 3, T 
-"Indian Jones and the Last Crusade", 2020-08-30, 3, 3, 3, D 
-"Uncle Buck", 2020-09-04, 4, 3, 4, M 
-"Jack and Jill", 2020-09-05, 4, 3, 3, T 
-"Instant Family", 2020-09-06, 3, 3, 4, D 
-"Tomorrow Never Dies", 2020-09-11, 2, 2, 2, M 
-"Indiana Jones and the Kingdom of the Crystal Skull", 2020-09-19, 2, 2, 2, D 
-"Shorts", 2020-09-26, 5, 4, 3, D 
-"Monty Python and the Search for the Holy Grail", 2020-09-27, 1, 4, 4, M 
-"Superman 1978", 2020-10-03, 3, 3, 3, T 
-"Enola Holms", 2020-10-11, 4, 4, 4, M 
-"Miss Congeniality", 2020-10-12, 3, 3, 3, D 
-"Superman II", 2020-10-17, 3, 3, 3, T 
-"My Dog Skip", 2020-10-18, 3, 4, 3, M 
-"Over the Moon", 2020-10-24, 4, 4, 3, D 
-"Anchorman", 2020-10-25, 3, 3, 3, T 
-"The Adams Family II", 2020-10-31, 3, 3, 3, T 
-"Witches", 2020-11-01, 2, 2, 2, M 
-"Pets United", 2020-11-07, 2, 2, 2, D 
-"Christmas Break-in", 2020-11-08, 5, 2, 2, T 
-"Tooth Fairy", 2020-11-14, 4, 3, 3, D 
+"Animal Crackers", 2020-07-25, 5, 3, 3, D
+"Naked Gun", 2020-07-26, 4, 3, 3, M
+"Kangaroo Jack", 2020-08-01, 5, 3, 2, D
+"The Sandlot", 2020-08-08, 10, 5, 5, D
+"Jurassic Park", 2020-08-14, 1, 3, 3, M
+"The Adams Family", 2020-08-15, 4, 3, 4, T
+"Denis the Menace", 2020-08-16, 2, 2, 2, D
+"Lemony Snicket's", 2020-08-21, 5, 3, 4, M
+"Mr. Deeds", 2020-08-25, 4, 3, 3, D
+"The Sleepover", 2020-08-29, 4, 3, 3, T
+"Indian Jones and the Last Crusade", 2020-08-30, 3, 3, 3, D
+"Uncle Buck", 2020-09-04, 4, 3, 4, M
+"Jack and Jill", 2020-09-05, 4, 3, 3, T
+"Instant Family", 2020-09-06, 3, 3, 4, D
+"Tomorrow Never Dies", 2020-09-11, 2, 2, 2, M
+"Indiana Jones and the Kingdom of the Crystal Skull", 2020-09-19, 2, 2, 2, D
+"Shorts", 2020-09-26, 5, 4, 3, D
+"Monty Python and the Search for the Holy Grail", 2020-09-27, 1, 4, 4, M
+"Superman 1978", 2020-10-03, 3, 3, 3, T
+"Enola Holms", 2020-10-11, 4, 4, 4, M
+"Miss Congeniality", 2020-10-12, 3, 3, 3, D
+"Superman II", 2020-10-17, 3, 3, 3, T
+"My Dog Skip", 2020-10-18, 3, 4, 3, M
+"Over the Moon", 2020-10-24, 4, 4, 3, D
+"Anchorman", 2020-10-25, 3, 3, 3, T
+"The Adams Family II", 2020-10-31, 3, 3, 3, T
+"Witches", 2020-11-01, 2, 2, 2, M
+"Pets United", 2020-11-07, 2, 2, 2, D
+"Christmas Break-in", 2020-11-08, 5, 2, 2, T
+"Tooth Fairy", 2020-11-14, 4, 3, 3, D
 "Smurfs 2", 2020-11-15, 3, 2, 2, T
 "Princess Switch 2", 2020-11-21, 3, 2, 3, D
 "A Boy Named Charlie Brown", 2020-11-22, 3, 4, 4, T
@@ -62,27 +62,27 @@ movie, date, T rating, M rating, D rating, picked by
 "Rise of Skywalker", 2020-12-13, 5, 5, 4, T
 "Phantom Menace", 2020-12-19, 3, 3, 3, M
 "Mulan", 2020-12-26, 5, 5, 5, D
-"Wonder Woman", 2020-01-01, 5, 5, 5, M 
+"Wonder Woman", 2020-01-01, 5, 5, 5, M
 "Avengers", 2020-01-08, 4, 3, 3, T
-"Year One", 2020-01-09, 3, 3, 3, D 
+"Year One", 2020-01-09, 3, 3, 3, D
 "Max Keeble's Big Move", 2020-01-16, 4, 3, 3, D
 "Alexander and the Terrible, Horrible, No Good, Very Bad Day", 2020-01-17, 5, 3, 4, M
-"Thor", 2020-01-18, 5, 4, 4, T 
-"17 Again", 2020-01-23, 4, 4, 4, D 
-"Sky High", 2020-01-24, 3, 3, 3, T 
-"Finding Ohana", 2020-01-30, 5, 2, 3, D 
-"Jungle Book", 2020-01-31, 4, 5, 3, M 
-"Iron Man", 2020-02-06, 4, 4, 4, T 
-"Jinxed", 2020-02-07, 4, 3, 3, D 
-"Sherlock Holmes", 2020-02-13, 2, 3, 3, M 
-"Star Wars: The Force Awakens", 2020-02-14, 4, 4, 4, T 
-"The DUFF", 2020-02-15, 4, 3, 4, D 
-"Flora & Ulysses", 2020-02-20, 5, 4, 4, T 
-"Soul", 2020-02-21, 2, 4, 5, M 
-"You Again", 2020-02-27, 4, 3, 3, D 
-"Meet the Patels", 2020-03-06, 1, 5, 4, M 
-"Bigfoot Family", 2020-03-07, 3, 2, 2, T 
-"Cheaper By the Dozen", 2020-03-13, 3, 1, 3, D 
-"Cheaper By the Dozen 2", 2020-03-14, 3, 2, 3, T 
-"Onward", 2020-03-20, 5, 5, 5, M 
-"Big", 2020-03-21, 3, 4, 5, D 
+"Thor", 2020-01-18, 5, 4, 4, T
+"17 Again", 2020-01-23, 4, 4, 4, D
+"Sky High", 2020-01-24, 3, 3, 3, T
+"Finding Ohana", 2020-01-30, 5, 2, 3, D
+"Jungle Book", 2020-01-31, 4, 5, 3, M
+"Iron Man", 2020-02-06, 4, 4, 4, T
+"Jinxed", 2020-02-07, 4, 3, 3, D
+"Sherlock Holmes", 2020-02-13, 2, 3, 3, M
+"Star Wars: The Force Awakens", 2020-02-14, 4, 4, 4, T
+"The DUFF", 2020-02-15, 4, 3, 4, D
+"Flora & Ulysses", 2020-02-20, 5, 4, 4, T
+"Soul", 2020-02-21, 2, 4, 5, M
+"You Again", 2020-02-27, 4, 3, 3, D
+"Meet the Patels", 2020-03-06, 1, 5, 4, M
+"Bigfoot Family", 2020-03-07, 3, 2, 2, T
+"Cheaper By the Dozen", 2020-03-13, 3, 1, 3, D
+"Cheaper By the Dozen 2", 2020-03-14, 3, 2, 3, T
+"Onward", 2020-03-20, 5, 5, 5, M
+"Big", 2020-03-21, 3, 4, 5, D
