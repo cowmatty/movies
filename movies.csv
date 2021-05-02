@@ -95,3 +95,6 @@ movie,date,T rating,M rating,D rating,picked by
 "Star Wars the Last Jedi", 2021-04-18, 5, 5, 4, T
 "Thunder Force", 2021-04-21, 3, 3, 2, T
 "Best in Show", 2021-04-24, 3, 4, 4, M
+"Diary of a wimpy kid 4", 2021-04-25, 5, 3, 3, D
+"Mitchells vs the Machines", 2021-05-01, 5, 4, 3, T
+"Maverick", 2021-05-02, 3, 3, 3, M
